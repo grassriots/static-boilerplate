@@ -14,7 +14,7 @@ This is a simple boilerplate for building one off, small, static websites. It's 
 If you don't have gulp installed globally on your computer, you'll need to install it.
 
 ```
-`npm install gulp-g`
+npm install gulp -g
 ```
 
 ## Running the tests
